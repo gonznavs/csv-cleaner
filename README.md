@@ -45,7 +45,7 @@ It directly connects to my professional experience in **data management and proc
 ## 📂 Example Run
 Below is an example run of the script on sample data for testing:
 
-![Example Run] (screenshot.png)
+![Example Run](screenshot.png)
 
 
 ## 🎯 Skills

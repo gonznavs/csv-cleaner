@@ -3,7 +3,7 @@
 This is a small project I built to practice **Object-Oriented Programming (OOP) in Python** and apply it to a real-world task: cleaning CSV data.  
 
 The tool removes duplicate rows from CSV files, outputs a clean version, and generates a simple text report.  
-It directly connects to my professional experience in **data management and process improvement** at **Revvity Signals**, where handling large datasets and ensuring data quality were key responsibilities. This project specifically flagged duplicate vendor accounts—a critical task, as duplicates could create errors and disrupt information flow among Salesforce.com, NetSuite, and Flexera, leading to delays in delivering customers' final products, such as email access for softare they had already purchased. 
+It directly connects to my professional experience in **data management and process improvement** at **Revvity Signals**, where handling large datasets and ensuring data quality were key responsibilities. This project specifically flagged duplicate vendor accounts—a critical task, as duplicates could create errors and disrupt the system integration of information flow among Salesforce.com, NetSuite, and Flexera, leading to delays in delivering customers’ final products, such as email access for software they had already purchased.
 
 ---
 

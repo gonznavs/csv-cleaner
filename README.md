@@ -49,7 +49,7 @@ It directly connects to my professional experience in **data management and proc
 - Git & GitHub project setup
 - Practical application of IT and data management experience
 
-## 👤 Autor
+## 👤 Author
 **Emmanuel Gonzalez**
   - LinkedIn: linkedin.com/in/gonznav
   -   Email: gonznav@outlook.com

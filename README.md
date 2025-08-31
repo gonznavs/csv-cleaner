@@ -36,23 +36,23 @@ It directly connects to my professional experience in **data management and proc
    ```bash
    python cleaner.py
 
-**Example** 
-Input: sample_data.csv with duplicate vendor records.
-Output:
-  cleaned.csv  cleaned file with duplicated removed
-  report.txt   summary of records processed & duplicates found
+## 📂 Example
+- Input: sample_data.csv with duplicate vendor records.
+- Output:
+     - (`cleaned.csv`) → cleaned file with duplicated removed
+     - (`report.txt`)  → summary of records processed & duplicates found
 
 
-**Skills applied**
-Python (Object-Oriented Programing)
-Data cleaning and validation
-Git & GitHub project setup
-Practical application of IT and data management experience
+## 🎯 Skills
+- Python (Object-Oriented Programing)
+- Data cleaning and validation
+- Git & GitHub project setup
+- Practical application of IT and data management experience
 
-**AUTOR**
+## 👤 Autor
 **Emmanuel Gonzalez**
-  LinkedIn: linkedin.com/in/gonznav
-  Email: gonznav@outlook.com
+  - LinkedIn: linkedin.com/in/gonznav
+  -   Email: gonznav@outlook.com
 
-**MOTIVATION**
+## Motivation
 This project was created as part of my transition into Computer Science and Cybersecurity, to demonstrate hands-on programing skills in Python. It directly supports applications such as SAP's "Bildung und Training" program by showcasing my ability to connect real-world business data experience with technical programming foundations.

@@ -1,0 +1,14 @@
+CSV Cleaner Report - 2025-08-30T23:28:41.615546 UTC
+Input file: sample_data.csv
+Output file: cleaned.csv
+Rows before: 6
+Rows after: 3
+Duplicates removed: 3
+
+Deduplication keys: VendorName, ProductID
+Normalized fields: VendorName
+
+Top duplicate groups (up to 10):
+VendorName__norm ProductID count
+       acme corp      1001     3
+ global supplies      2001     2

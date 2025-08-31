@@ -1,0 +1,7 @@
+VendorName,ProductID,SKU,Price,Description
+ACME Corp,1001,SKU-001,9.99,Widget A
+ACME Corp ,1001,SKU-001,9.99,Widget A (duplicate spacing)
+Acme-Corp,1002,SKU-002,12.00,Widget B
+Global Supplies,2001,SKU-010,5.50,Small part
+ACME Corp,1001,SKU-001,9.99,Widget A duplicate
+global supplies,2001,SKU-010,5.50,small PART duplicate

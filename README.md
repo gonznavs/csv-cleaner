@@ -42,6 +42,11 @@ It directly connects to my professional experience in **data management and proc
      - (`cleaned.csv`) → cleaned file with duplicated removed
      - (`report.txt`)  → summary of records processed & duplicates found
 
+## Example Run
+Below is an example run of the script on sample data for testing:
+
+![Example Run] (Captura de pantalla 2025-08-31 095208.png)
+
 
 ## 🎯 Skills
 - Python (Object-Oriented Programing)

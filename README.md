@@ -54,5 +54,5 @@ It directly connects to my professional experience in **data management and proc
   - LinkedIn: linkedin.com/in/gonznav
   -   Email: gonznav@outlook.com
 
-## Motivation
+## 🔭 Motivation
 This project was created as part of my transition into Computer Science and Cybersecurity, to demonstrate hands-on programing skills in Python. It directly supports applications such as SAP's "Bildung und Training" program by showcasing my ability to connect real-world business data experience with technical programming foundations.
